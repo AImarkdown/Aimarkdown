@@ -6,7 +6,9 @@
 ![](https://aimarkdown.org/images/badges/chatGPT-74aa9c.svg)
 ![](https://aimarkdown.org/images/powered-by-openai-badge-outlined-on-light.png)
 
-*Developing AI apps, Prompt Engineering, and customizing ChatGPT interactions has never been easier*
+
+# AImarkdown Language
+> *Developing AI apps, Prompt Engineering, and customizing ChatGPT interactions has never been easier*.
 
 ## About
 
